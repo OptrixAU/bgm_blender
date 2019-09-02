@@ -11,3 +11,7 @@ Note that models are scaled in METRIC, even where their names indicate that they
 # Notes
 
 The Cycles renderer is used, which produces very high-quality, realistic results, at the cost of a little bit of material complexity. To modify any of the textures used, you will need to click in the bottom-left corner of the screen and choose 'Node Editor' with the material you want to change selected.
+
+![Preview Image](https://github.com/OptrixAU/bgm_blender/blob/master/PreviewBox.png?raw=true)
+
+![Preview Image](https://github.com/OptrixAU/bgm_blender/blob/master/PreviewParts.png?raw=true)
